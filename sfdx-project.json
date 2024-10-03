@@ -2,5 +2,5 @@
   packageDirectories  [{ path force-app, default true}],
   namespace ,
   sfdcLoginUrl  httpslogin.salesforce.com,
-  sourceApiVersion 46.0
+  sourceApiVersion 60.0
 }
